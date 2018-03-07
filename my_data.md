@@ -81,3 +81,5 @@ This dataset contains the spirits purchase information of Iowa Class “E” liq
 Used cars for sale in Germany and Czech Republic since 2015.
 
 1. K. Wyrzykowski. [Asia and Oceania](https://www.kaggle.com/openaddresses/openaddresses-asia-and-oceania). OpenAddresses's goal is to connect the digital and physical worlds by sharing geographic coordinates, street names, house numbers and postal codes.
+
+1. M. Zelek [Regression data for Inclusionary Housing Simulation Model](https://data.sfgov.org/Economy-and-Community/Regression-data-for-Inclusionary-Housing-Simulatio/vcwn-f2xk) In order to understand how higher inclusionary housing requirements affects the feasibility of new market-rate housing development, the Controller's Office contracted with Blue Sky Consulting Group to statistically model the factors that affect the probability of housing development in San Francisco. This data underlies the model reported in our preliminary report. An overview of the statistical analysis is provided in main section of the report, with more details provided in the Appendix.
